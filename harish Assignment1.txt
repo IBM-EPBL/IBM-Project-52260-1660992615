@@ -1,0 +1,105 @@
+
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Document</title>
+      
+        <link rel="stylesheet" href="hari-ass1.css">
+        <script src="https://kit.fontawesome.com/de1a19dd9e.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+   <body>
+    <div id="final">
+      <div>
+         <div style ="float: left;font-size: large; font-weight: bolder;">RESUME</div>
+         <div style ="float: right;"><i class="fa fa-linkedin-square" style="font-size:36px" style="width:.5cm;height: .5cm; margin-right:15px"></i> <i class="fa fa-stack-overflow" style="font-size:36px;margin-left:5px;margin-right:5px"></i><i class="fa fa-envelope" style="font-size:36px;"></i>
+         </div>
+      </div>
+
+
+      <div  id="id1">
+         <div id="id5">
+            <p id="id2">M Harish Kumar</p>
+            <p id ="id3"> Software Engineer and Web Developer</p>
+            <button class="button button1" >Download CV </button>
+            <button class="button button1">Hire Me</button>
+         </div>
+      </div>
+      <div id="id4">
+         <img src="C:\Users\Maha\Documents\img3.webp"alt="img"  >
+      </div>
+      <div class="row">
+         <div class="column" style="background-color:white;padding: 10px;">
+            <br>
+            <h2> Objective</h2>
+            To secure employment with a reputable company, where I can utilize my skills and business studies background to the maximum.
+         </div>
+         <div class="column" style="background-color:white;padding: 10px;">
+            <br>
+            <pre style="font-family: 'Times New Roman' ;">
+    <b>age</b>        19
+
+    <b>email</b>      kumar@gmail.com
+
+    <b>Address</b>    sasi street ,chennai.
+            </pre>
+         </div>
+      </div>
+      <hr>
+      <h2> Professional Skills</h2>
+      <div class="row2" style="padding: 2px ;">
+         <div class="column">
+            <b>
+               <p class="p">Html</p>
+            </b>
+            <div class="grid-container">
+               <div class="item1" style="background-color:rgba(5, 113, 255, 0.603)"></div>
+               <div class="item2"></div>
+            </div>
+            <b>
+               <p class="p">Css</p>
+            </b>
+            <div class="grid-container">
+               <div class="item1" style="background-color:rgba(5, 113, 255, 0.60)"></div>
+               <div class="item2"></div>
+            </div>
+            <b>
+               <p class="p">Javascript</p>
+            </b>
+            <div class="grid-container">
+               <div class="item1" style="background-color:rgba(5, 113, 255, 0.60)"></div>
+               <div class="item2"></div>
+            </div>
+         </div>
+         <div class="column">
+            <b>
+               <p class="p">Adobe Photoshop</p>
+            </b>
+            <div class="grid-container">
+               <div class="item1" style="background-color:rgb(243, 35, 94)"></div>
+               <div class="item2"></div>
+            </div>
+            <b>
+               <p class="p">Micrsoft Office</p>
+            </b>
+            <div class="grid-container">
+               <div class="item1" style="background-color:rgb(243, 35, 94)"></div>
+               <div class="item2"></div>
+            </div>
+            <b>
+               <p class="p">Adobe Illustrator</p>
+            </b>
+            <div class="grid-container">
+               <div class="item1" style="background-color:rgb(243, 35, 94)"></div>
+               <div class="item2"></div>
+            </div>
+         </div>
+      </div>
+      </div>
+    </div>
+    
+   </body>
+</html>
